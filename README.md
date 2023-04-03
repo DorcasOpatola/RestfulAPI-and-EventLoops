@@ -20,3 +20,10 @@
 5. Wrap common utilities as npm packages
 
 #### NPM5
+> NPM is both a tool for managing project dependencies via command line and a website hosting.
+> <b>npm5</b> is a package manager for Javascript.
+To initialize a package in npm use
+> npm init
+
+#### How to run a script in the package.json
+> npm run SCRIPT_NAME
