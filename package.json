@@ -1,0 +1,11 @@
+{
+  "name": "restfulapi-and-eventloops",
+  "version": "1.0.0",
+  "description": "> The event loop is a programming construct or design pattern that waits for and dispatches events or messages in a program.\r > It works by making a request to some internal or external \"event provider\", then calls the relevant event handler.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
